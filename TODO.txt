@@ -1,0 +1,2 @@
+Covert all links to shortlinks using ush.to
+Add publications (find a strategy)
