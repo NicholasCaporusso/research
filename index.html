@@ -37,7 +37,7 @@
 			</ul>
 			<h2>Research projects</h2>
 			<p>To be updated</p>
-			<h2>Selected list of publications</h2>
+			<h2>Selected list of publications <span class="publications-count"></span></h2>
 			<h4>Journal Papers (peer-reviewed)</h4>
 			<ol class="publications">
 				<li><u>N.Caporusso</u>, <em>Including Personality in e-Learning Design</em> in FormaMente, 2010 - ISBN 8849269536. Full text: <a target="_blank" href="https://goo.gl/c6CDdM">https://goo.gl/c6CDdM</a></li>		
@@ -145,6 +145,7 @@
 				$(this).attr('start',count);
 				count+=$(this).children().length;
 			});
+			$(document).find('span.publications-count').text('('+count+' items)');
 		</script>
 	</body>
 </html>
