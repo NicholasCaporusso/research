@@ -8,3 +8,7 @@
 [ResearchGate](https://www.researchgate.net/profile/Nicholas_Caporusso3 "ResearchGate")
 
 [LinkedIn](https://www.linkedin.com/in/nicholascaporusso/ "LinkedIn")
+
+
+Publications
+[a relative link](publications/2007_EMBS_PreliminaryExperimentationVibrotactileFeedback.pdf)
