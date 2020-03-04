@@ -1,3 +1,4 @@
 Add links to bio
 Covert all links to shortlinks using ush.to
 Add publications (find a strategy)
+Open publication links in new page
