@@ -1,3 +1,4 @@
 Add links to bio
 Covert all links to shortlinks using ush.to
 Add publications (find a strategy)
+Use JSON to store bibliography and load it into page
